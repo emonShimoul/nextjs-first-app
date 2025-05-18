@@ -14,6 +14,7 @@ const Navbar = () => {
           <ul className="flex justify-between w-1/2">
             <Link href="/">Home</Link>
             <Link href="/services">Services</Link>
+            <Link href="/post">Post</Link>
             <Link href="/about">About</Link>
           </ul>
         </nav>
